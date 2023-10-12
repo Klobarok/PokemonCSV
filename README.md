@@ -24,9 +24,8 @@ This Python script fetches data for the original 151 Pokémon from the [PokéAPI
     ```
 3. **Run the Script:**
     ```shell
-    python script_name.py
+    python pkmncsv.py
     ```
-    Replace `script_name.py` with the name of your Python file.
 
 ### Output
 
